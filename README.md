@@ -1,8 +1,8 @@
 ### Go : ###
 
-##string_sum_calculator.go##
+## string_sum_calculator.go ##
 
-#*Function that does math inside strings*#
+#Function that does math inside strings#
 
 - Function takes any string as input.
 - Clears the string.
