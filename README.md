@@ -1,6 +1,6 @@
-### Go : ###
+## Go : ##
 
-## string_sum_calculator.go ##
+### string_sum_calculator.go ###
 
 *Function that does math inside strings*
 
