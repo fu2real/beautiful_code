@@ -2,7 +2,7 @@
 
 ### string_sum_calculator.go ###
 
-*Function that adds together first two single digit integers found in string*
+~~*Function that adds together first two single digit integers found in string*~~
 
 - Function takes any string as input.
 - Clears the string.
